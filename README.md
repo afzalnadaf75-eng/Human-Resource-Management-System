@@ -1,4 +1,4 @@
- Human Resource Management System
+# Human Resource Management System
 
 A full-stack Human Resource Management System (HRMS) designed to manage employees, payroll, authentication, and employee-related operations through dedicated HR and Employee interfaces.
 
