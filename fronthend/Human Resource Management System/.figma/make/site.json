@@ -1,0 +1,10 @@
+{
+  "description": "A modern HRMS platform offering tailored dashboards for employees and HR teams to manage attendance, leave, payroll, and employee data efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
